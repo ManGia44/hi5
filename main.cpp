@@ -48,9 +48,9 @@ void Xuat(SinhVien (&A)[],int n){
 
 int main() {
     SinhVien A[MAXN];
-    int b;
+    int n;
     Nhap(A, n);
     SapXepGiamTheoMASV(A, n);
     Xuat(A, n);
-  
+    return 0;
 }
