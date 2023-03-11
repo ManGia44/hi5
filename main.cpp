@@ -52,5 +52,5 @@ int main() {
     Nhap(A, n);
     SapXepGiamTheoMASV(A, n);
     Xuat(A, n);
-    return 0;
+ 
 }
